@@ -1,5 +1,5 @@
 import React from 'react';
-import MyCalendar from './MyCalendar'; // Assurez-vous que le chemin est correct
+import MyCalendar from './components/MyCalendar';
 import './globals.css';
 
 function App() {
